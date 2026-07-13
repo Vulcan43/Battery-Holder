@@ -20,3 +20,10 @@ This will cost about $10 on PCBway
 
 # What it looks like
 
+For more pictures please go to the picture folder
+
+<img src="https://github.com/Vulcan43/Battery-Holder/blob/main/Pictures/G.jpg?raw=true" alt="G.jpg"/>
+
+<img src="https://github.com/Vulcan43/Battery-Holder/blob/main/Pictures/C.jpg?raw=true" alt="C.jpg"/>
+
+<img src="https://github.com/Vulcan43/Battery-Holder/blob/main/Pictures/B.jpg?raw=true" alt="B.jpg"/>
