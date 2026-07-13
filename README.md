@@ -2,10 +2,10 @@
 <img width="418" height="253" alt="image" src="https://github.com/user-attachments/assets/cb645a7b-cd45-49da-aa4a-7812304320ff" />
 
 # What it is
-This is a battery holder for 10 AA and 10 AAA abtterys with a lid for soafe keeping and so no debreis get in.
+This is a battery holder for 10 AA and 10 AAA batterys with a lid for safe keeping and so no debreis get in. This makes for easy storage and use.
 
 # Why I made it 
-I made this because I have batterys all over the place because most of the conainers are to smal so I made this to solve that.
+I made this because I have batterys all over the place because most of the conainers are to small so I made this to solve that. Also I find most the ones on amazon are overprices so why not make your own.
 
 # Battery-Holder
 A box to hold Battery so they aren't rolling everywhere.
