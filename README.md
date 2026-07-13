@@ -9,3 +9,14 @@ I made this because I have batterys all over the place because most of the conai
 
 # Battery-Holder
 A box to hold Battery so they aren't rolling everywhere.
+
+# Cost
+
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 3D printed part | For the print | 1 | 0.00 | [Print Legion](https://github.com) | Print Legion |
+
+This will cost about $10 on PCBway
+
+# What it looks like
+
